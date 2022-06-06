@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+
+    
+<korisnik><ime>Test</ime><prezime>Tost</prezime><email>test@example.com</email><username>Test123</username><password>12345</password></korisnik><korisnik><ime>Luka</ime><prezime>Čulina</prezime><email>luka.culina56@gmail.com</email><username>Tost45</username><password>toster</password></korisnik><korisnik><ime>Luka</ime><prezime>Čulina</prezime><email>luka.culina56@gmail.com</email><username>Tost45</username><password>toster</password></korisnik></korisnici>
